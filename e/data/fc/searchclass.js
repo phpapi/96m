@@ -1,0 +1,1 @@
+document.write("<option value=\'6\'>|-网游</option><option value=\'7\'>|-小游戏</option><option value=\'8\'>|-礼包</option><option value=\'1\'>|-资讯</option><option value=\'2\'>&nbsp;&nbsp;|-新闻</option><option value=\'3\'>&nbsp;&nbsp;|-攻略</option><option value=\'4\'>&nbsp;&nbsp;|-活动</option><option value=\'5\'>&nbsp;&nbsp;|-公告</option><option value=\'9\'>|-开服表</option>");
